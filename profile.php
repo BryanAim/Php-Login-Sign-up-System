@@ -25,7 +25,7 @@ else {
 
 <body>
   <!--Yeah! Display Site Logo at The Top-->
-  <a href="http://www.tonycletus.com"><img src="img/logo.png"></a> 
+  <!-- <a href="http://www.tonycletus.com"><img src="img/logo.png"></a>  -->
 
   <div class="form">
 
